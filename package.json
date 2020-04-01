@@ -68,7 +68,7 @@
     "isarray": "^0.0.1",
     "isexe": "^2.0.0",
     "isobject": "^3.0.1",
-    "kind-of": "^6.0.2",
+    "kind-of": "^6.0.3",
     "lodash._basecopy": "^3.0.1",
     "lodash._basetostring": "^3.0.1",
     "lodash._basevalues": "^3.0.0",
