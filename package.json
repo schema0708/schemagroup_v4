@@ -104,7 +104,7 @@
     "os-homedir": "^1.0.2",
     "parse-passwd": "^1.0.0",
     "pascalcase": "^0.1.1",
-    "path-parse": "^1.0.6",
+    "path-parse": "^1.0.7",
     "path-root": "^0.1.1",
     "path-root-regex": "^0.1.2",
     "posix-character-classes": "^0.1.1",
