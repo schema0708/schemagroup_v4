@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "ansi-gray": "^0.1.1",
-    "ansi-regex": "^2.1.1",
+    "ansi-regex": "^6.0.1",
     "ansi-styles": "^2.2.1",
     "ansi-wrap": "^0.1.0",
     "arr-diff": "^4.0.0",
