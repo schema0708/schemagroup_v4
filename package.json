@@ -31,7 +31,7 @@
     "core-util-is": "^1.0.2",
     "dateformat": "^2.2.0",
     "debug": "^2.6.9",
-    "decode-uri-component": "^0.2.0",
+    "decode-uri-component": "^0.2.1",
     "defaults": "^1.0.3",
     "define-property": "^2.0.2",
     "detect-file": "^1.0.0",
